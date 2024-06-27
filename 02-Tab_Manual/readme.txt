@@ -1,0 +1,1 @@
+Para ahorrar espacio no se subió la carpeta node_modules por lo tanto para restaurar las librerías tras descargar debe de hacer uso del comando 'npm install' en el directorio del proyecto. Esto instalará todas las dependencias listadas en 'package.json' en la carpeta node_modules.
